@@ -15,7 +15,7 @@
   - Machine Learning Crash Course—diving deep into the world of AI  
 
 - 💡 **My Approach**:  
-  - Bridging challenges with clarity, one problem at a time—where logic meets divine wisdom.  
+  - Bridging challenges with clarity, one problem at a time—where logic meets profound insights.
 
 - 💞️ **Open to Collaborate**:  
   - On anything exciting and interesting that fuels innovation!  
