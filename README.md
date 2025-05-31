@@ -5,7 +5,7 @@
 
 ## 👀 About Me:
 - 🔧 **Passionate Programmer** with an interest in:  
-  - Windows Kernel Programming  
+  - Windows System/Kernel Programming  
   - Embedded Systems
   - C, C++ (Cpp), Python, Java, HTML/CSS
   - Exploring and Learning Web Technologies  
